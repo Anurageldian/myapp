@@ -112,7 +112,7 @@ function MessengerChat() {
 
 export default function App() {
   return (
-    <TonConnectUIProvider manifestUrl="https://anurageldian.github.io/my-app/tonconnect-manifest.json">
+    <TonConnectUIProvider manifestUrl="https://anurageldian.github.io/myapp/tonconnect-manifest.json">
       <MessengerChat />
     </TonConnectUIProvider>
   );
